@@ -155,6 +155,6 @@ def run_bot():
 
     # Konfiguracja Gemini API
     genai.configure(api_key=GEMINI_API_KEY)
-    genai_model = genai.GenerativeModel('gemini-2.0-flash-lite')
+    genai_model = genai.GenerativeModel('gemini-2.0-flash-lite') # Używam Flasha ze względu na szybkość odpowiedzi
 
     bot.run(TOKEN)
