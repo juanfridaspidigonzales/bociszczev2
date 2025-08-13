@@ -25,7 +25,8 @@ DISCORD_BOT_TOKEN=twoj_token
 GEMINI_API_KEY=twoj_klucz_api
 
 3. Uruchom main.py
-   
+
 ## Przykładowy plik .env z kluczami środowiskowymi:
 DISCORD_BOT_TOKEN=your_discord_token
 GEMINI_API_KEY=your_api_key
+
