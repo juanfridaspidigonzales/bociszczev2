@@ -1,5 +1,5 @@
 # Discord Bot z obsługą AI
-Projekt bota Discord z wykorzystaniem AI do generowania treningów zaklęć na serwerze RolePlay hapel.pl oraz zarządzania profilami postaci.
+Projekt bota Discord z wykorzystaniem AI do generowania treningów zaklęć oraz zarządzania profilami postaci.
 
 ## Funkcjonalności
 - Tworzenie i zarządzanie profilami postaci.
@@ -29,4 +29,5 @@ GEMINI_API_KEY=twoj_klucz_api
 ## Przykładowy plik .env z kluczami środowiskowymi:
 DISCORD_BOT_TOKEN=your_discord_token
 GEMINI_API_KEY=your_api_key
+
 
